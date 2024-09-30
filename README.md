@@ -1,5 +1,5 @@
 <div align=center>
-# Flipper Zero BadUSB scripts
+<h1>Flipper Zero BadUSB scripts</h1>
 </div>
 
 <div align=center>
