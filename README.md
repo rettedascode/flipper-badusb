@@ -1,4 +1,6 @@
+<div align=center>
 # Flipper Zero BadUSB scripts
+</div>
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/DISCLAIMER.png" width="600" />
